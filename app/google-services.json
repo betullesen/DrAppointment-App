@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769955346945",
+    "project_id": "appointmentapp-5771e",
+    "storage_bucket": "appointmentapp-5771e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769955346945:android:1b64d252efadda660a1e00",
+        "android_client_info": {
+          "package_name": "com.betulesen.appointmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbmNCI9itJ8s_MLV44Agt0sXZTI_1ZCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
