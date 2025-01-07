@@ -1,5 +1,5 @@
 # Dr Appointment App :stethoscope:
-------------
+--------------------
 
 This application is a mobile app that provides easy access to healthcare services. It offers various features that allow users to communicate with doctors, 
 explore different healthcare options, and find the best healthcare services. The app has a modern and user-friendly interface.
